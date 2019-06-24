@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "retail.store.name",
+    "type": "java.lang.String",
+    "description": "Retail store name"
+  },
+  {
+    "name": "retail.store.affiliates",
+    "type": "java.lang.String",
+    "description": "Affiliate stores with retail store"
+  },
+  {
+    "name": "retail.store.discount.percentage.for.employee",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.percentage.for.employee'"
+  },
+  {
+    "name": "retail.store.discount.percentage.for.affiliate",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.percentage.for.affiliate'"
+  },
+  {
+    "name": "retail.store.discount.percentage.for.customer.more.than.two.years",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.percentage.for.customer.more.than.two.years'"
+  },
+  {
+    "name": "retail.store.discount.amount.on.every.hundred.dollar.bill",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.amount.on.every.hundred.dollar.bill'"
+  },
+  {
+    "name": "retail.store.discount.on.grocery.product.flag",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.on.grocery.product.flag'"
+  },
+  {
+    "name": "retail.store.discount.on.non.grocery.product.flag",
+    "type": "java.lang.String",
+    "description": "A description for 'retail.store.discount.on.non.grocery.product.flag'"
+  }
+]}
